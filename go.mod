@@ -3,7 +3,7 @@ module main
 go 1.24.2
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.8
+	github.com/gofiber/fiber/v2 v2.52.9
 	github.com/gofiber/websocket/v2 v2.2.1
 	github.com/joho/godotenv v1.5.1
 	golang.org/x/oauth2 v0.30.0
